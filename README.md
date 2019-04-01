@@ -9,6 +9,8 @@ This is a basic implementation of the Atari Breakout game, but it's missing a fe
 - Score
   - When a ball collides with a brick, the score should increase [based on the color](https://en.wikipedia.org/wiki/Breakout_(video_game)#Gameplay)
   - Display a high score using [localSorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- Ball speed
+  - The ball should slowy get faster at [certain points in the game](https://en.wikipedia.org/wiki/Breakout_(video_game)#Gameplay)
 - Mobile and touchscreen support
   - Allow the game to be scalled down to a phone size. See https://codepen.io/straker/pen/VazMaL
   - Support [touch controls](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
