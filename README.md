@@ -5,7 +5,7 @@ This is a basic implementation of the Atari Breakout game, but it's missing a fe
 ## Further Exploration
 
 - Lives
-  - The player should have 3 changes to remove all the bricks. Display how many lives the player currently has using [context.fillText()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillText). Remove a life when the ball goes below the screen
+  - The player should have 3 chances to remove all the bricks. Display how many lives the player currently has using [context.fillText()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillText). Remove a life when the ball goes below the screen
 - Score
   - When a ball collides with a brick, the score should increase [based on the color](https://en.wikipedia.org/wiki/Breakout_(video_game)#Gameplay)
   - Display a high score using [localSorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
