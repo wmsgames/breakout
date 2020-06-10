@@ -17,6 +17,8 @@ This is a basic implementation of the Atari Breakout game, but it's missing a fe
 - Better paddle movement
   - Currently the paddle movement is sticky. If you press the opposite direction while releasing the other direction, the padddle doesn't move right away. And if you release a direction while holding the other, the paddle stops. Improve it so it doesn't do this.
   
+**Important note:** I will answer questions about the code but will not add more features or answer questions about adding more features. This series is meant to give a basic outline of the game but nothing more.  
+  
 ## License
 
 (CC0 1.0 Universal) You're free to use this game and code in any project, personal or commercial. There's no need to ask permission before using these. Giving attribution is not required, but appreciated.
