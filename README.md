@@ -14,7 +14,7 @@ This is a basic implementation of the Atari Breakout game, but it's missing a fe
 - Ball speed
   - The ball should slowly get faster at certain points in the game. See [https://en.wikipedia.org/wiki/Breakout_(video_game)](https://en.wikipedia.org/wiki/Breakout_(video_game)#Gameplay)
 - Mobile and touchscreen support
-  - Allow the game to be scalled down to a phone size. See https://codepen.io/straker/pen/VazMaL
+  - Allow the game to be scaled down to a phone size. See https://codepen.io/straker/pen/VazMaL
   - Support [touch controls](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
 - Better paddle movement
   - Currently the paddle movement is sticky. If you press the opposite direction while releasing the other direction, the padddle doesn't move right away. And if you release a direction while holding the other, the paddle stops. Improve it so it doesn't do this.
@@ -32,6 +32,7 @@ This is a basic implementation of the Atari Breakout game, but it's missing a fe
 - [Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1)
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
 - [Frogger](https://gist.github.com/straker/82a4368849cbd441b05bd6a044f2b2d3)
+- [Missile Command](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
 
 ## Support
 
